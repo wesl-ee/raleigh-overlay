@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repositories version="1.0">
+	<repo quality="experimental" status="unofficial">
+		<name>raleigh-overlay</name>
+		<description>Raleigh Overlay for personal projects</description>
+		<homepage>https://github.com/wesleycoakley/raleigh-overlay</homepage>
+		<owner type="person">
+			<name>Wesley Coakley</name>
+			<email>w@wesleycoakley.com</email>
+		</owner>
+		<source type="git">https://github.com/wesleycoakley.com/raleigh-overlay</source>
+	</repo>
+</repositories>
